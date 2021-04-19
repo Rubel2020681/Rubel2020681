@@ -1,0 +1,54 @@
+<!doctype html>
+<HTML5>
+<HEAD>
+	<TITLE>THINK FAST</TITLE>
+		<meta charset="utf-8">
+		<meta name="Description"content=All Types of Product>
+		<meta name="Keywords" content="T-shirt, Polo-Shirts">
+		<meta nsme="Auther" content="Robiul Sir">
+		<meta name="Viewport" content="width=device width, 	onitial-scale=1.0">
+		<meta http-equiv="refresh" content="5">
+</HEAD>
+<BODY><style type="text"></style>
+	<H1>THINK BIG</H1>
+	<H2>VALUE ADD</H2>
+	<H3>BUSINESS MOTTO</H3>
+	<h4>pay tax</h4>
+	<h5> not profit>
+	<P><B><U></U></B>
+		<div style="border:1px solid grey;background-color:yellow;color: blue">
+		<p>Now a days passive income is very popular income sourcein omline. People can earn money <b>by clicking mouce, <i>playing games,</i> listening music, watching video, selling products, typing words </b>et.<pre>But those income sources are very low according to minimum wage
+	wages rate in USA, whereas in online average pay rate is 1-5 USD.
+	</pre></p></div></P>
+
+	<a href="http://www.bangla.bdnews24.com">CLICK ME</a>
+
+
+	<img src="c:\Users\pc\Desktop\html cheat sheet\123.png">
+	
+<form>
+ Name :<input type="Text" name="username"> 
+
+ email :<input type="email" name="user email">
+
+ Password :<input type="Text" name="usuer Password">
+
+ Mobaile No :<input type="tel" name="user Mobaile No">
+
+ Date of Birth :<input type="Date" name="usuerdob">
+
+ Gender :---------------------
+ Male :<input type="radio" name="gender">
+ Female:<input type="radio" name="gender1">
+ Other :<input type="radio" name="gender2">
+ <br><br>
+ Language :--------------------<br>
+ English :<input type="checkbox" name="Language">
+ Bangla :<input type="checkbox" name="Language">
+ Arabic :<input type="checkbox" name="language">
+
+ <br><br>
+ <input type="submit" name="submit">
+</BODY>
+
+</HTML5>
